@@ -1,1 +1,0 @@
-This is a collection of older Numix stuff that I thoughts was worth keeping. It's a bit higgldy-piggldy at the moment so I'll try and sort it out soon.
