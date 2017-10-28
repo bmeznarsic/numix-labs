@@ -1,7 +1,7 @@
 Numix Technic
 ========================
 
-**This theme is still underdevelopment. Usage is not recommended.**
+**This theme is no longer maintained by the upstream (Numix). Usage is not recommended.**
 
 Technic (short for 'technicolour') as an icon theme by the Numix Project designed as a spiritual successor to the popular but no longer updated theme [AnyColorYouLike](http://pobtott.deviantart.com/art/Any-Color-You-Like-175624910). This icon theme has 3 very cool uses.
 
